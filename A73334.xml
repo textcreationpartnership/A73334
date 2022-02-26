@@ -1,0 +1,776 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The excellent historye of Theseus and Ariadne Wherein is declared her feruent loue to hym: and his trayterous dealynge towarde her: written in English meeter in co[n]mendacion of all good women: and to the infamie of suche lyght huswyues as Phedia the sister of Ariadne was: which fled away w[ith] Theseus her sisters husbande: as is declared in this history. By Thomas Vnderdowne.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1566</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73334</idno>
+            <idno type="STC">STC 24517</idno>
+            <idno type="STC">ESTC S124908</idno>
+            <idno type="EEBO-CITATION">99898694</idno>
+            <idno type="PROQUEST">99898694</idno>
+            <idno type="VID">152035</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73334)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152035)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2018:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The excellent historye of Theseus and Ariadne Wherein is declared her feruent loue to hym: and his trayterous dealynge towarde her: written in English meeter in co[n]mendacion of all good women: and to the infamie of suche lyght huswyues as Phedia the sister of Ariadne was: which fled away w[ith] Theseus her sisters husbande: as is declared in this history. By Thomas Vnderdowne.</title>
+                  <author>Underdown, Thomas.</author>
+               </titleStmt>
+               <extent>[32] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Rycharde Iohnes: and are to be sold at his shop, ioynyng to the south west doore of Paules Churche,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1566, 18. of Januarie.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B.</note>
+                  <note>Reproduction of original in the John Rylands University Library, Manchester, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Greek fiction --  Translations into English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152035:1"/>
+            <p>
+               <hi>THE <hi>Excellent Hiſtorye of Theſeus and Ariadne.</hi>
+               </hi>
+            </p>
+            <p>Wherein is declared her fer<g ref="char:EOLhyphen"/>uent loue to hym: and his Tray<g ref="char:EOLhyphen"/>terous dealynge towarde her: Written in Engliſh Meeter in Co<g ref="char:cmbAbbrStroke">̄</g>mendacion of all good women: and to the Infamie of ſuche lyght Huſwyues as Phe<g ref="char:EOLhyphen"/>dra the ſiſter of Ariadne was: which fled away w<hi rend="sup">t</hi> The<g ref="char:EOLhyphen"/>ſeus her Siſters Huſ<g ref="char:EOLhyphen"/>bande: as is decla<g ref="char:EOLhyphen"/>red in this Hiſtory.</p>
+            <p>
+               <hi>By Thomas Vnderdowne.</hi>
+            </p>
+            <p>¶<hi>Imprinted at London by Rycharde Iohnes:</hi> and are to be ſold at his Shop, ioynyng to the Southweſt Doore of Paules Churche.</p>
+            <p>
+               <hi>1566, 28.</hi> of Ianuarie.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:152035:2"/>
+            <pb facs="tcp:152035:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:152035:3"/>
+            <pb facs="tcp:152035:3"/>
+            <head>¶The Preface to <hi>the Reader.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">S</seg>Eynge the pricke where<g ref="char:EOLhyphen"/>vnto</hi> the Lyne of oure lyfe guydeth vs, is knowledg of thynges wherof we are ig<g ref="char:EOLhyphen"/>norant: &amp; that of all know<g ref="char:EOLhyphen"/>ledges, none is more eſtima<g ref="char:EOLunhyphen"/>ble or worthy for thoſe that acknowledge them ſelues by the names of men, then the Science of the Natures and qualyties of thynges: and of Natures, the beſt &amp; moſte excellent is the acquaintaunce with Mankind, and knowledge of his con<g ref="char:EOLhyphen"/>dicions. I haue thought it good (gentell Reader) to ſet before thyne eyes Thiſtorie of Theſeus &amp; Aryadne: the whiche, though the Style and Meetre be to baſe for ſo per<g ref="char:EOLhyphen"/>fyte a Paterne of ſo many thynges: yet by the perſwaſions &amp; earneſt requeſt of diuers and thoſe my verye frendes, I haue gyuen it thee: wherin thou maiſte beholde, as in a Glaſſe almoſte all maner of dealynges for ſundry kindes of purpoſes. As if thou ſeeke for true loue, looke vpon Ariadne: who ad<g ref="char:EOLhyphen"/>ue<g ref="char:cmbAbbrStroke">̄</g>tured her fame, body &amp; goods to go with Theſeus. If thou ſeeke for good counſell,
+<pb facs="tcp:152035:4"/> howe to eſchewe the blaſynge brandes of the fyerye flames of loue, ſee Phedra. If Crafte, Diſſimulacion, Perfidye, Periu<g ref="char:EOLhyphen"/>rye, or forgetfulnes of good turnes: behold Theſeus. If thou craue an Example of vn<g ref="char:EOLunhyphen"/>naturall luſt, lechery: or as I mought ſay, inceſt: let Phedra come before thyne eyes: who hauynge no reſpect to honeſtie, fame, ire of the Goddes, nor kynred: entyſed the vnconſtant Theſeus to forſake her Siſter, and loue her. Certaynly in that ſhe was a woman, ſhe deſerued pardon: but in that ſhee was a Siſter, ſhee deſerued perpetuall ignomynie and euerlaſtynge ſhame &amp; diſ<g ref="char:EOLhyphen"/>honour. And ſeynge the Siſter maye not truſte her Siſter, ſithe bothe came oute of one belye, and ſucked of one pappes: what other wyll be ſo mad, or ſo muche without reaſon as to truſt a woman? whoſe diſho<g ref="char:EOLhyphen"/>neſt partes haue hitherto, and yet do ſo pro<g ref="char:EOLunhyphen"/>perlye playe their Pageantes, as no tonge can tell, no Pen can wryte, nor any harte comprehende: I wyll not that any honeſt and vertuous Woman be towched with that I mynde to ſaye: but they onely who in readynge hereof, ſhall by anye meanes fynde them ſelues agreeued. And I wyll touche no poynt, but onelye Beautie.</p>
+            <pb facs="tcp:152035:4"/>
+            <p>For yf I ſhoulde ſaye, what I haue ſeene, reade and harde, a yeare were to lytell to tell of their trickes.</p>
+            <p>Aſſuredly, he that deſyreth a fayre woman armeth him ſelfe to a right great and dan<g ref="char:EOLhyphen"/>gerous aduenture: and why? a fayre wo<g ref="char:EOLhyphen"/>man is nothynge but a gaſynge ſtocke of ydell folkes: an earelye wakynge for them that bee lyghte: and ſhe that is deſired for her Beautie in her youthe, maye hope too haue but a ſorye lyfe in her age.</p>
+            <p>An infallyble Rule it is, that ſhee that is deſyred for her fayreneſſe, is hated for her ſowleneſſe: and Beautie of trouthe is not perpetuall, but fadeth as the flowers and greene graſſe. Alſo he that hathe a fayre woman muſt ſuffre her pryde: for Beautie and Pryde go alwaye together. Alſo hee muſt ſuffre her expences: for beautie in the face, and folye in the head, be two wormes that fret the lyfe, and conſume the goodes. Alſo hee muſt ſuffre her Ryotes: for a faire woman wyll, that none but ſhee haue her commaundementes in the Howſe.</p>
+            <p>Alſo bee muſte ſuffre her nyce Mynions: for a fayre woman wyll paſſe her time in pleaſures. Alſo hee muſte ſuffre her Preſumption: for euerye fyne and
+<pb facs="tcp:152035:5"/> fayre woma<g ref="char:cmbAbbrStroke">̄</g> wyll haue preeminence before all other: &amp; at a worde, he that hath a fayre woman is apparelde with as great peryll as euer was Cartha with Scipio, Ieruſa<g ref="char:EOLhyphen"/>lem with Titus, or Rome with Brennus: No man complayneth that the Goddes a<g ref="char:EOLhyphen"/>mong his deſtenies haue giuen him a foule wife: let euery man chuſe as him lyſt. The noble Armynus of Carthage for the ſpace of foureſcore yeres wherin he ruled the co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>mon wealth there, was as ſtraunge to wo<g ref="char:EOLhyphen"/>men, as famyliar to his Bookes. And this age paſſed, his frendes deſired him inſtant<g ref="char:EOLhyphen"/>lye to take a wyfe, that the memorye of ſo perfyte a wyſe man might remayne to the poſterytie: and the more earneſt they were, the more he reſiſted &amp; ſayd: If ſhe be fowle, I ſhall abhorre her: if ſhe be fayre, I muſt take hede to her: if ſhe be ryche, I muſt ſuf<g ref="char:EOLhyphen"/>fer her: if ſhe be poore, I muſt mayntayne her: if ſhe be a ſhrew, I can not forbere her: and the leaſt plague of theſe is ſufficient to ſlaye a. M. men. But let vs ſee how they of olde tyme paſſed their dayes, &amp; let vs con<g ref="char:EOLhyphen"/>ſider whither the Grafts that were ſlipped from theſe trees, be any whyt degenerated from the olde ſtocke. Myrrha lay with her father. Byblys cauſed her brother Cannus
+<pb facs="tcp:152035:5"/> for vniuſte and vnnaturall luſt to be bany<g ref="char:EOLhyphen"/>ſhed. Medea ſlewe her Brother Abſyrtus, therby to ſcape her fathers danger<g ref="char:punc">▪</g> &amp; folow Iaſon into Grece: and this our Phedra left her ſiſter in a vaſt foreſt a pray to the fierce and cruel Beaſtes, and ran away with her Huſbande. I ſpeake not of any light fault, but of ſuche, wherby the fawties haue got<g ref="char:EOLhyphen"/>ten them no leſſe reproch in their time, the<g ref="char:cmbAbbrStroke">̄</g> ſhame with vs by beynge Examples of ſo filthy factes. As for thoſe that lyue nowe with vs I feare me, thei ſhalbe as yll repor<g ref="char:EOLunhyphen"/>ted of tyme to come, as they be hated nowe with wiſe and auncient men: their lookes be ſo loftie, their gate ſo ſtately, their appa<g ref="char:EOLunhyphen"/>rell ſo diſguiſed, their courage ſo hawtye, that you may muſe to here of their maners geſtures and behauiours, no leſſe then thei were Monſters, or thinges wherin Nature eyther had erred, or woulde not ſhewe her force. And where in time paſſed, all that was done otherwyſe then honeſtie permit<g ref="char:EOLhyphen"/>ted was done very ſecretely. Now (I know no cauſe why) they that be dyffamed do as muche reioyce in their naughtines, as they aforetime were aſhamed of their miſdedes: I can alledge no reaſon why ſuche thyngs ſhoulde come to paſſe nowe, rather then in
+<pb facs="tcp:152035:6"/> tymes paſte: but that oure women lyue ſo yedellye, that they eſchewe all honeſte laboure, and whollye addicte them ſelues to vnhoneſt ydleneſſe. For this is certaine: where the handes is occupyed: there, the harte muſte needes do ſomwhat: and if I ſaye not true, let any man alleadge when euer there were moe ydell Women in the whole worlde, then is nowe in the ſmall Circuit of Englande. I reade, howe di<g ref="char:EOLhyphen"/>uers haue ben co<g ref="char:cmbAbbrStroke">̄</g>mended for kepynge them ſelues cloſe in their Howſes, vſynge them ſelues diſcretelye with companye: mode<g ref="char:EOLhyphen"/>ratelye with their Houſholde: decentlye with their Huſbandes. But neuer was any lauded, for leadynge of an ydell lyfe. You ydle Dames wherſoeuer you be, tell me I praye you? what was the cauſe that Penelope was ſo muche honoured in her tyme, and left eternal memorie of her good renowne to vs after her death? What trade of lyfe led ſhee when Vlyſſes was at the Siege of Troye? ſhee beynge a Quene dyd paynfullye ſpyn and keepe her howſe, and for all the knot of gentell Woers that ſhe had, ſhe neuer left her worke to dallye and toye with them, thoughe her Huſband were awaye .xx. yeares? What dyd the
+<pb facs="tcp:152035:6"/> wicked Torquyne fynde the good Ladye Lucres doynge when he came to rauyſſhe her? If ye knowe not (O ye amorous La<g ref="char:EOLhyphen"/>dyes to you I ſpeake) I wyll tell you: ſhee ſat ſpynnyge with her Maydes: and beyng deflowred: ſhee neither gaue Torquyne thankes for his good wyll, nor reward for his paynes, but flewe her ſelfe, becauſe her Huſbandes bedde was defyled. Let theſe to Ladyes be Examples, to you (O ye La<g ref="char:EOLhyphen"/>dyes enamorous) howe you ſhall occupye your ſelues in your Howſes: they were no vyle women, for the firſte was Quene of Ithaca, thother a Conſuls wyfe of Rome. But I ſuppoſe you cannot away with ſpin<g ref="char:EOLunhyphen"/>nynge, for that vtterlye taketh awaye all vayne thoughtes, and occupyeth the minde with honeſt ſtudyes: for all the Senſes be moued by it: the eyes with ſeyeng that the threde be well twyned: the eares with hea<g ref="char:EOLhyphen"/>rynge the ſownde of the wheele: the hands with turnyng it aboute, ſo that no place is voyde of doing ſomwhat: wherby no yl can tary or raigne in y<hi rend="sup">e</hi> hart: thus much I haue ſaid becauſe Ariadnes idlenes cauſed al her griefe: for if ſhe had not be<g ref="char:cmbAbbrStroke">̄</g> idle, ſhe had not gone out of her chamber: if ſhe had not gon out of her chamber, ſhe had not come to the
+<pb facs="tcp:152035:7"/> Laberynthe wherein Theſeus was: if ſhee had not gone to the Laberynthe, ſhe hadde not hard his complaint: if ſhe had not hard his complaint, ſhe had not loued him: if ſhe had not loued him, ſhe had ben ſafe fro<g ref="char:cmbAbbrStroke">̄</g> the chaunce whiche happened to her: as in the Hiſtorye ſhalbe declared. Ydlenes is ther<g ref="char:EOLhyphen"/>fore the ground of all vice, &amp; ouerthroweth quyte all the foundations of Vertue. But as I haue ſaid of theſe two, I might ſpeake of many mo: but this is ynough if it be wel vnderſtanded. But to leaue this, and come to the Hiſtorye agayne, from the whiche I haue a lytle dygreſſed: if thou looke for an example of paynfulnes, take them all, and thynke with howe great paines they ſlewe and ſubdued the fel Monſter Mynotaurus: If thou deſire to here of vnmercyfulnes of Parentes, caſt thou eyes to Theſeus, who loſt his father Egeus through his defaut. But becauſe it is but lytle touched in this Hiſtorye, I wyll pretermyt that: Yf myſe<g ref="char:EOLhyphen"/>rye, call to mynde Aryadne left in the wil<g ref="char:EOLhyphen"/>derneſſe: and to be ſhort of all vnhappynes let her be a Paterne. I might apply eche of theſe to diuers other co<g ref="char:cmbAbbrStroke">̄</g>men places: but the<g ref="char:cmbAbbrStroke">̄</g> I ſhould make my Entry greater then my whole Howſe. I wyll therfore leue the reſt
+<pb facs="tcp:152035:7"/> to be ſcanned of thee (gentle Reader) &amp; if I ſhal perceiue that this is welcome to thee, hereafter as occaſion ſhall ſerue, thou ſhalt encourage me to do the more: Thus ho<g ref="char:EOLhyphen"/>pynge that thou wilte take in good parte whatſoeuer is ſaid herein, I byd thee fare<g ref="char:EOLhyphen"/>well: deſirynge thee if oughte bee amyſſe, frendlye to correcte it, or gentlye to admo<g ref="char:EOLhyphen"/>nyſſhe mee therof. Farewell.</p>
+         </div>
+         <div type="poem">
+            <head>¶A Rule for Women to brynge vp their Daughters.</head>
+            <lg>
+               <l>YE Mothers that your Daughters wyll</l>
+               <l>brynge vp and nurture well:</l>
+               <l>Theſe Rules do keepe, &amp; them obſerue,</l>
+               <l>Whiche I ſhall here nowe tell.</l>
+            </lg>
+            <lg>
+               <l>¶If they wyll go or gad abrode,</l>
+               <l>their legges let broken bee:</l>
+               <l>Put out their eyes if they wyll looke</l>
+               <l>or gaſe vndecentlye.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:152035:8"/>
+               <l>¶If they their eares wyll gyue to bark</l>
+               <l>what other men do ſaye:</l>
+               <l>Stoppe them vp quyte, if geue or take,</l>
+               <l>then cut their handes awaye.</l>
+            </lg>
+            <lg>
+               <l>¶If they dare lyghtly vſe to talke,</l>
+               <l>their lyppes together ſowe:</l>
+               <l>If they wyll ought lyghtly entende,</l>
+               <l>lette Graſſe vpon them growe.</l>
+            </lg>
+            <lg>
+               <l>¶And at a worde, if ſhe be yll,</l>
+               <l>let her yll aunſwers haue:</l>
+               <l>And for her dower geue ſharpe wordes</l>
+               <l>and for her houſe a graue.</l>
+            </lg>
+            <lg>
+               <l>¶Therfore ye Mothers, if ye vſe</l>
+               <l>and kepe my Rules in mynde:</l>
+               <l>Daughters you ſhall haue none at all,</l>
+               <l>or thoſe of Phenyx kynde.</l>
+            </lg>
+            <trailer>¶Finis.</trailer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:152035:8"/>
+            <head>¶The Hiſtorie of Theſeus and Ariadne.</head>
+            <l>THere dwelt ſomtyme in Crete a kyng;</l>
+            <l>that mightie Minos hight:</l>
+            <l>Who had to wife Paſiphae,</l>
+            <l>a paſſyng wylye wight.</l>
+            <l>This carefull Quene bewayled ſore,</l>
+            <l>her huſbandes abſence longe:</l>
+            <l>She did lament with penſiue thought.</l>
+            <l>her iniurie and wronge.</l>
+            <l>And moſte for that dame Venus ſport</l>
+            <l>ſhe wanted ſuche a ſpace:</l>
+            <l>There was no man in all her Court,</l>
+            <l>that could deſerue her grace.</l>
+            <l>They were eche one to baſe of bloud,</l>
+            <l>or of to lowe degree:</l>
+            <l>As that they might obtayne or haue</l>
+            <l>ſo peereleſſe a Ladie.</l>
+            <l>And why? ſhe did mutche more eſteeme</l>
+            <l>her honour and her fame:</l>
+            <l>Then that ſhe liſt to haſard them,</l>
+            <l>with ſutche reproche and ſhame.</l>
+            <l>Thus did therfore her broylyng breaſt,</l>
+            <l>inuent to put in vre:</l>
+            <l>Leaſt that her ardent ſecrete flames,</l>
+            <l>ſhuld not be kept in ſure.</l>
+            <pb facs="tcp:152035:9"/>
+            <l>A Cowe of wodde for to be made,</l>
+            <l>ſhee did therfore deuiſe:</l>
+            <l>Compacte with connyng handycrafte,</l>
+            <l>and perfite Artifice.</l>
+            <l>For Dedalus the Carpenter,</l>
+            <l>did frame it in ſutche ſorte:</l>
+            <l>As it once ſeene, you would in dede,</l>
+            <l>a very Cowe reporte.</l>
+            <l>For it one were within the wood,</l>
+            <l>the gynnes were trimmed ſo,</l>
+            <l>That if they were pluckt aright,</l>
+            <l>the Cowe would walke or go.</l>
+            <l>This worke when it was finiſſhed,</l>
+            <l>the quene for her ſolace,</l>
+            <l>would oftimes get into the ſame,</l>
+            <l>and ſitte in it a ſpace.</l>
+            <l>Tyl that the Gynnes ſhe could once turne</l>
+            <l>and rule them as ſhe lyſt:</l>
+            <l>Then ſhe to worke her wanton wyll,</l>
+            <l>begyns as ſhe thynkes beſt.</l>
+            <l>Somtymes ſhe goes, ſomtimes ſhe ronnes</l>
+            <l>ſomtymes ſhe lyeth ſtyll:</l>
+            <l>And finally ſhe doth eche thynge,</l>
+            <l>that pleaſes her wicked wyll.</l>
+            <l>Then ſmellynge oyntments doth ſhe take</l>
+            <l>and doth annoynt this Cowe:</l>
+            <l>For to prouoke the boyſterous Bull,</l>
+            <l>as women knowe well howe.</l>
+            <pb facs="tcp:152035:9"/>
+            <l>This done ſhe goeth into the ſame,</l>
+            <l>the Bull alſo is brought:</l>
+            <l>And there betwixt the Bull and Cowe</l>
+            <l>is pretie paſtime wrought.</l>
+            <l>Paſiphae thus hath her wyll,</l>
+            <l>except I be beguylde:</l>
+            <l>Soone after this congreſſe was done,</l>
+            <l>the Quene was founde with childe,</l>
+            <l>Shortlye after, the kynge retournde</l>
+            <l>and did lye by this quene,</l>
+            <l>And ſhe was great of kynge and Bull,</l>
+            <l>at once, as then was ſeene.</l>
+            <l>For when ſhe ſhould be brought to bed,</l>
+            <l>came foorth a Monſter fell:</l>
+            <l>That had both ſhape of man and beaſt</l>
+            <l>as auncient Stories tell.</l>
+            <l>The Fame of this deformed Beaſt</l>
+            <l>harde Countreies neare and farre,</l>
+            <l>And for bycauſe two formes he had,</l>
+            <l>men called him Mynotare.</l>
+            <l>This furyous Feende, this hungry thing</l>
+            <l>would eate nought els but men,</l>
+            <l>Wherfore from all the ſorye Landes,</l>
+            <l>that Mynes conquerd then.</l>
+            <l>There co<g ref="char:cmbAbbrStroke">̄</g>meth many men by lotte,</l>
+            <l>this hungrye Beaſt to feede,</l>
+            <l>And howe they ſpeede for to reherſe,</l>
+            <l>ywys it is no neede.</l>
+            <pb facs="tcp:152035:10"/>
+            <l>Till at the laſt noble Theſeus,</l>
+            <l>Good king Egeus ſonne:</l>
+            <l>Who for his ſake from Turrets top,</l>
+            <l>In ſea headlong did ronne.</l>
+            <l>Came into Crete to Laberynthe,</l>
+            <l>Wherin this monſter was:</l>
+            <l>There for to ende his gloryous lyfe,</l>
+            <l>from wealth to woe to paſſe:</l>
+            <l>Where he once put with clamours huge,</l>
+            <l>gan to extoll his crye:</l>
+            <l>Bewaylyng muche his fatall fall,</l>
+            <l>and preſent myſerye.</l>
+            <l>With theſe, or other ſuche lyke wordes,</l>
+            <l>he did begin his mone:</l>
+            <l>Salted with ſighes and bytter teares,</l>
+            <l>he was ſo woe begone.</l>
+            <l>What do auayle my warlyke proweſſe,</l>
+            <l>my ſtrength and hautie hart:</l>
+            <l>They can not in this ſeoberdye,</l>
+            <l>at all releas my ſmarte.</l>
+            <l>Ah wretche full of calamytie,</l>
+            <l>alas what hap haue I?</l>
+            <l>In Crete thus in the Laberynthe,</l>
+            <l>in pryſon ſtronge to dye.</l>
+            <l>Why dyd I not ſubmytte my ſelfe,</l>
+            <l>to Tygres tirranye?</l>
+            <l>Or rampynge Lyons dagynge teeth,</l>
+            <l>or ennemies crueltie.</l>
+            <pb facs="tcp:152035:10"/>
+            <l>Why dyd not Giaunts me ſubdue?</l>
+            <l>or Wolues in wyldernes:</l>
+            <l>or Serpentes ſtynge in tyme tofore,</l>
+            <l>ryd me from this diſtreſſe.</l>
+            <l>Why didſt not thou Hippolite,</l>
+            <l>thyne ennemie ouerthrowe:</l>
+            <l>Whiche nowe is in extremetie,</l>
+            <l>in myſerie and woe?</l>
+            <l>Why didſt thou not threeheaded Dog,</l>
+            <l>thou Porter of Hell gate:</l>
+            <l>Deſtroye me quite, when I did thee</l>
+            <l>ſo cruellye aſſaute?</l>
+            <l>Why did I not ſome poyſon take,</l>
+            <l>to ryd me of my lyfe:</l>
+            <l>Why did not cruell dynt of ſworde,</l>
+            <l>ſtynt all this hatefull ſtrife?</l>
+            <l>Oh all ye Gods that all thyngs guyde,</l>
+            <l>whom men do gentell call:</l>
+            <l>Why do ye not pety my griefe,</l>
+            <l>and rayſe me from this fall.</l>
+            <l>Remember me whom ye haue made,</l>
+            <l>a kynges ſonne lo I am:</l>
+            <l>In warlyke force and hardines,</l>
+            <l>ſurmountynge euery man.</l>
+            <l>In flower of youthe without redreſſe,</l>
+            <l>Oh cruell Deſtenie:</l>
+            <l>Do lye in feare, alas the whyle,</l>
+            <l>lookynge when I muſt dye.</l>
+            <pb facs="tcp:152035:11"/>
+            <l>My weapons all are raught from me,</l>
+            <l>wherwith I me defende:</l>
+            <l>Well, weale awaye, I ſaye no more,</l>
+            <l>but thus wyll make an ende.</l>
+            <l>This ſayd, the bytter teares and ſighes,</l>
+            <l>his ſenſes do oppreſſe:</l>
+            <l>So that ye neuer ſawe a man,</l>
+            <l>in ſo mutche heauyneſſe.</l>
+            <l>All this complaynt and wofull crye,</l>
+            <l>kynge Mynos Daughters harde:</l>
+            <l>And were in mynde, if that they might,</l>
+            <l>to take him out of warde.</l>
+            <l>And therof ſpake thelder mayde,</l>
+            <l>vnto her ſiſter deare:</l>
+            <l>Doſte thou not here this man quoth ſhe,</l>
+            <l>that makes this ruthefull cheare?</l>
+            <l>I beare quoth ſhe, and do bewayle</l>
+            <l>this wofull wretches caſe:</l>
+            <l>What ſhall we do to helpe alas,</l>
+            <l>we haue no tyme nor ſpace?</l>
+            <l>Well, well: quoth Ariadne thoe,</l>
+            <l>(that was the Elders name:)</l>
+            <l>I wyll prouyde ſome ſpedye helpe,</l>
+            <l>come what wyll of the ſame.</l>
+            <l>And thou my ſiſter Phedra deare,</l>
+            <l>aſſiſt me as thou can:</l>
+            <l>For I muſt either die therfore,</l>
+            <l>or els enioye this man.</l>
+            <pb facs="tcp:152035:11"/>
+            <l>For I do loue with ſuche a zeale,</l>
+            <l>and with ſo feruent loue:</l>
+            <l>That I can not abyde ſuche flames,</l>
+            <l>I ſweare by the Gods aboue.</l>
+            <l>This ſayd: the yonger ſiſter ſaide,</l>
+            <l>alas what wilt thou do?</l>
+            <l>Oh ſiſter deare, nowe rule thy ſelfe,</l>
+            <l>and let ſuche folye goe.</l>
+            <l>Remember thou kynge Mynos wrathe,</l>
+            <l>remember thyne owne fame:</l>
+            <l>And how the worlde wyll ſpeake of thee</l>
+            <l>both vyllanie and ſhame.</l>
+            <l>Oh canſt thou not content thy ſelfe,</l>
+            <l>with thyne happye ſtate?</l>
+            <l>Why wilt thou caſt awaye thy ſelfe?</l>
+            <l>why doſt thou thy wealth hate?</l>
+            <l>Doſt thou not knowe that no Realme is</l>
+            <l>ſafe from kynge Mynos ſight?</l>
+            <l>Doſt thou not know that all the world,</l>
+            <l>is ſubiect to his might.</l>
+            <l>Whiche way wilt thou thy ſelfe conuay</l>
+            <l>where he ſhall not thee finde?</l>
+            <l>Therfore let this thy folye go</l>
+            <l>and put it out of mynde.</l>
+            <l>Doſt thou not know y<hi rend="sup">e</hi> kyngs are wonte</l>
+            <l>longe handes to exerciſe?</l>
+            <l>Doſt thou not know that kyngs are ſaid</l>
+            <l>that they haue Lynres eyes.</l>
+            <pb facs="tcp:152035:12"/>
+            <l>Doſt thou not knowe that Mynos is</l>
+            <l>of nature very fell?</l>
+            <l>Thou knoweſt all his qualyties,</l>
+            <l>I neade them not thee tell.</l>
+            <l>But put the caſe thou haue thy wyll,</l>
+            <l>marke well what I thee ſaye:</l>
+            <l>He wyll at length forſake thee quite,</l>
+            <l>and caſt thee cleane awaye.</l>
+            <l>Example take by Sylla fayre,</l>
+            <l>kynge Nyſus Daughter deare,</l>
+            <l>Who vpon promyſſe made to her,</l>
+            <l>by Mynos kynge or ſier.</l>
+            <l>Who promyſed to cary her</l>
+            <l>with hym into his lande:</l>
+            <l>If that ſhe woulde her father geue,</l>
+            <l>and Citie to his hande.</l>
+            <l>She did with haſte and dilygence,</l>
+            <l>perfourme his whole requeſt:</l>
+            <l>But he alas vnto her payne,</l>
+            <l>did fruſtrat his beheſt.</l>
+            <l>Did not Medea by her meanes,</l>
+            <l>yonge Iaſons lyfe preſerue:</l>
+            <l>What curteſye and gentlenes</l>
+            <l>did her good wyll deſerue?</l>
+            <l>She kept hym ſafe from ennemies force,</l>
+            <l>from Dragons ſtynge alſo,</l>
+            <l>She ſlewe her Brother for his ſake.</l>
+            <l>and with him ſhe did go.</l>
+            <pb facs="tcp:152035:12"/>
+            <l>Yet he at length did caſt her of,</l>
+            <l>ſuche is the Greekyſh kynde:</l>
+            <l>And wilte thou nowe a Greeke beleue,</l>
+            <l>who hath bewitcht thy mynde?</l>
+            <l>Do thou therfore ſuche foolyſſhe toyes,</l>
+            <l>out of thy mynde let ſlyde:</l>
+            <l>And neuer let ſuche fancies force,</l>
+            <l>thy vnconſtant head to guide.</l>
+            <l>This ſayd, her ſiſter wared redde,</l>
+            <l>and looked lowryngly:</l>
+            <l>As though that ſhe diſpleaſed were,</l>
+            <l>yet kepte it ſecretly.</l>
+            <l>Leaſt that her Syſter ſhoulde diſcloſe,</l>
+            <l>her pryuie enterpryſe:</l>
+            <l>Whiche ſhe wold not ſhuld come to pas</l>
+            <l>in any maner wyſe.</l>
+            <l>And ſpake with ſilent voyce againe,</l>
+            <l>what panges of dolfulneſſe</l>
+            <l>Do I ſuſteyne? what weepynge wayles</l>
+            <l>can halfe ynoughe expreſſe?</l>
+            <l>The flames that I do hydden keepe</l>
+            <l>within my burnynge breaſt?</l>
+            <l>Oh ſiſter deare aſſiſte thou me,</l>
+            <l>that I maye get ſome reſt.</l>
+            <l>I do not weye kynge Mynos wrathe,</l>
+            <l>I do it not regarde:</l>
+            <l>So that I maye my Theſeeus</l>
+            <l>delyuer out of warde.</l>
+            <pb facs="tcp:152035:13"/>
+            <l>What do I care, what men do ſaye,</l>
+            <l>of mee, when I am gone:</l>
+            <l>So that I neuer here their talke,</l>
+            <l>and I ſhall leaue to mone.</l>
+            <l>And ſo ſhould I be happy then,</l>
+            <l>whiche nowe vnhappy proue:</l>
+            <l>Then ſhuld I ſaue my ſelfe which now</l>
+            <l>do languyſh, loſt in loue.</l>
+            <l>I do not care for Mynos might,</l>
+            <l>as myghty men as he:</l>
+            <l>Haue miſt their wyll of meaner men</l>
+            <l>then Theſeus and mee.</l>
+            <l>I knowe that Mynos might is great,</l>
+            <l>yet loue is greater muche:</l>
+            <l>And ſuche as feare his Ire or wrath,</l>
+            <l>leaue of to loue let ſuche.</l>
+            <l>I knowe that kynges haue armes longe</l>
+            <l>and that they can ſee farre:</l>
+            <l>Yet Loue is farre without their reache:</l>
+            <l>they can not ſee ſo farre.</l>
+            <l>I knowe that Mynos is both fell,</l>
+            <l>and of great crueltie:</l>
+            <l>And if that he vs apprehende,</l>
+            <l>I knowe that we muſt dye.</l>
+            <l>But come or happe what wyll to mee,</l>
+            <l>I care not for his might:</l>
+            <l>For if that I might Theſeus haue,</l>
+            <l>I were a bleſſed wight.</l>
+            <pb facs="tcp:152035:13"/>
+            <l>Thou oughteſt not (ſiſter) to compare</l>
+            <l>Mynos with Theſeus:</l>
+            <l>The one is roughe and haſtie both:</l>
+            <l>the other curteous.</l>
+            <l>I knowe not what yonge Iaſon was:</l>
+            <l>ne of what ſtocke he came:</l>
+            <l>But if he dyd, as you reporte,</l>
+            <l>he hath deſerued blame.</l>
+            <l>But ſure I am that Theſeus,</l>
+            <l>his promys made, wyll keepe.</l>
+            <l>And I twyſe happy ſhould then be,</l>
+            <l>in his ſweete armes to ſleepe.</l>
+            <l>But I alone, do I, I ſaye</l>
+            <l>alone attempt by flight:</l>
+            <l>My loue to haue, and him enioye:</l>
+            <l>is this ſo ſtraunge a ſight?</l>
+            <l>Hath not ſuch chaunces chaunced before</l>
+            <l>for Louers to haue ioye?</l>
+            <l>Did not Dame Helene companye,</l>
+            <l>ſir Parys vnto Troye?</l>
+            <l>Did not truſty Theagenes,</l>
+            <l>conuaye Cariclea:</l>
+            <l>Vntyll they came with muche adoe,</l>
+            <l>to Ethiopia.</l>
+            <l>Where after many ſturdye ſtormes,</l>
+            <l>and burnynge broylynge paſt:</l>
+            <l>They did enioye eche other bothe,</l>
+            <l>longe looked for at laſt.</l>
+            <pb facs="tcp:152035:14"/>
+            <l>I could reherſe thee many moe,</l>
+            <l>if I had tyme and ſpace:</l>
+            <l>But all to longe I feare alas</l>
+            <l>we tarye in this place.</l>
+            <l>Theſe wordes did quayle her ſiſter well</l>
+            <l>and foorth they go both two:</l>
+            <l>Vnto the Denne where Theſeus was,</l>
+            <l>in myſerye and wo.</l>
+            <l>They call the Porter vnto them,</l>
+            <l>and byd hym ope the doore:</l>
+            <l>And in they go together bothe</l>
+            <l>and ſtoode Theſeus before.</l>
+            <l>And Ariadne ſpake to hym,</l>
+            <l>and ſaid ſir howe fare ye?</l>
+            <l>Alas Madame but yll quoth hee,</l>
+            <l>in this extremytie.</l>
+            <l>And in ſuche ſorte they talke a whyle,</l>
+            <l>then did ſhe ſpeake agayne:</l>
+            <l>And would you gladly ſir quoth ſhee,</l>
+            <l>be eaſed of this payne?</l>
+            <l>If you wyll promys mee one thynge,</l>
+            <l>and graunt mee my beheſt:</l>
+            <l>That when I ſhall deſyre you,</l>
+            <l>you wyll graunt mee my requeſt.</l>
+            <l>We wyll ſeeke meanes all that we may</l>
+            <l>for to delyuer you:</l>
+            <l>We wyll aſſiſte you as we can,</l>
+            <l>this Monſter to ſubdue.</l>
+            <pb facs="tcp:152035:14"/>
+            <l>When Theſeus harde ſo ioyfull newes,</l>
+            <l>he fell vpon his knee:</l>
+            <l>And did requeſt her of her ayde,</l>
+            <l>and that right ſpedelye.</l>
+            <l>And I quoth he, wyll all thynges do,</l>
+            <l>that you can me commande:</l>
+            <l>I wyll be yours, all that I haue</l>
+            <l>I put into your hande.</l>
+            <l>Therfore Madame, helpe me I praye,</l>
+            <l>that am your owne at wyll,</l>
+            <l>Loe I am yours at all aſſayes,</l>
+            <l>to ſaue, or els to ſpyll.</l>
+            <l>Therfore ſaye on Oh curteous Quene,</l>
+            <l>here ſaye what is your wyll:</l>
+            <l>Some ſeruyce do to mee commaunde,</l>
+            <l>and I wyll it fulfyll.</l>
+            <l>Nought els I wyll of thee quoth ſhee,</l>
+            <l>but that thou promys here:</l>
+            <l>That thou wilt carye vs with thee,</l>
+            <l>into thy countrey dere.</l>
+            <l>And that thou ſhalt mee take to wyfe,</l>
+            <l>and lyue with me for ay:</l>
+            <l>This ſure, and thou delyuered,</l>
+            <l>ſhalt be this preſent daye.</l>
+            <l>Oh Ladye fayre, happye were I,</l>
+            <l>yea thryſe happye I ſaye:</l>
+            <l>If you would mee accept your man,</l>
+            <l>and your ſeruaunte alwaye.</l>
+            <pb facs="tcp:152035:15"/>
+            <l>And as for Mariage, I ſuppoſe,</l>
+            <l>that you will not beſtowe</l>
+            <l>your ſelfe on mee: whome here tofore,</l>
+            <l>you haue not ſeene ne knowe.</l>
+            <l>And as for me, I do confeſſe,</l>
+            <l>I am to baſe of blood:</l>
+            <l>As that I maye attayne vnto</l>
+            <l>ſo fayre a Queene and good.</l>
+            <l>Alas, what is poore Theſeus?</l>
+            <l>what is Egeus ſonne.</l>
+            <l>Whoſe fate is ſuche, that ſtyll he muſt,</l>
+            <l>his myſerie bemone.</l>
+            <l>But if you wyll voucheſafe taccepte</l>
+            <l>mee, for your man or ſlaue:</l>
+            <l>As I that in your mercye lyes,</l>
+            <l>either to loſe or ſaue.</l>
+            <l>I were mutche bounde vnto your grace,</l>
+            <l>I were muche bounde I ſaye:</l>
+            <l>And I nowe am, and ſtyll ſhalbe</l>
+            <l>your owne, at eche aſſaye.</l>
+            <l>Leaue of quoth ſhe theſe words, &amp; ſwere</l>
+            <l>I knowe well what thou arte:</l>
+            <l>Come of, and do as I requeſt,</l>
+            <l>and eaſe my payne and ſmarte</l>
+            <l>And thou ſtreyght waye ſhalbe exempte</l>
+            <l>from pryſon and from warde:</l>
+            <l>Do as I ſaye, if thou haſt ought</l>
+            <l>vpon thy ſelfe regarde.</l>
+            <pb facs="tcp:152035:15"/>
+            <l>Well than quoth he, ſith me your make</l>
+            <l>you wyll vouchſafe to haue:</l>
+            <l>Whiche would be glad, if you ſo would</l>
+            <l>to be your page or ſlaue.</l>
+            <l>Marke well and harke what I wyll ſay,</l>
+            <l>myne aunſwere thus ſhalbe,</l>
+            <l>Whiche I wyll ſtyll auouche and keepe</l>
+            <l>what ſo betyde of me.</l>
+            <l>I ſweare to you by all the Goddes,</l>
+            <l>and powers in heauens hye:</l>
+            <l>By all the ſpyrytes that hell do rule,</l>
+            <l>the earth and ſterry ſkye.</l>
+            <l>That I wyll be your man and make,</l>
+            <l>both nowe and eke for aye:</l>
+            <l>Styll you to loue, and none but you,</l>
+            <l>if you ſaue me this daye.</l>
+            <l>And theſe alſo, that you do brynge,</l>
+            <l>I wyll them ſtyll defende:</l>
+            <l>From tyme to tyme as nede ſhalbe,</l>
+            <l>vntyll my lyfe ſhall ende.</l>
+            <l>When in ſuche ſorte his othe he made,</l>
+            <l>Oh Lorde howe glad was ſhee,</l>
+            <l>Her bloud did come, her hart did leape,</l>
+            <l>ſhe gan to waxe merye.</l>
+            <l>Then by and by they take in hande,</l>
+            <l>this Monſter for to kyll:</l>
+            <l>And Balles of Heere &amp; Pitch they make</l>
+            <l>to gyue to hym his fyll.</l>
+            <pb facs="tcp:152035:16"/>
+            <l>None was ſo earneſt in this worke,</l>
+            <l>none laboured ſo mutche:</l>
+            <l>As Arſadne did, as whome</l>
+            <l>theſe wiſſhed Ioyes did tutche.</l>
+            <l>And to be ſhorte, with trauell great,</l>
+            <l>and with great toyle and payne:</l>
+            <l>This diſformed Beaſt, this Feend ſo fel</l>
+            <l>was murthered and ſlayne.</l>
+            <l>Then ſpeede they make vnto their ſhips</l>
+            <l>whyle as it was yet daye,</l>
+            <l>And Phebe had not with her ſtarres</l>
+            <l>chaſed the lyght awaye.</l>
+            <l>With haſte they get a boorde eche one,</l>
+            <l>they labour all the nyght:</l>
+            <l>All do put to their helpynge handes,</l>
+            <l>to further this their flight.</l>
+            <l>Vntyll Aurora did them tell,</l>
+            <l>that Phebus was at hande:</l>
+            <l>And therby founde geſſe that they</l>
+            <l>approched to ſome Lande.</l>
+            <l>In dede theſe Damſelles could not well</l>
+            <l>abyde the ragynge Seas:</l>
+            <l>Therfore they labour to get lande,</l>
+            <l>theron them ſelues to eaſe.</l>
+            <l>And then aboute the tyme that Sole,</l>
+            <l>approched to the place:</l>
+            <l>Where from the hieſt heauens toppe,</l>
+            <l>he ſhewes his ſhynyng face.</l>
+            <pb facs="tcp:152035:16"/>
+            <l>Thei leaue their ſhips, and find a Land</l>
+            <l>where pleaſures do abounde:</l>
+            <l>Where they lye downe to take their reſt</l>
+            <l>vpon that fruitfull grounde.</l>
+            <l>And thoſe that ſleepe did not oppreſſe,</l>
+            <l>they gather flowers gaye:</l>
+            <l>Or els did walke into the woods,</l>
+            <l>to dryue their cares awaye.</l>
+            <l>Nothynge there was in all the Lande,</l>
+            <l>that could not moue their ſpirites:</l>
+            <l>Their eyes, their eares and ſenſes all,</l>
+            <l>moued them to braue delytes.</l>
+            <l>But Aryadne had good cauſe</l>
+            <l>not to haue ſlepte at all:</l>
+            <l>Although it were to her vnknowen,</l>
+            <l>what ſhould to her befall.</l>
+            <l>For Theſeus, Oh traytour lyke,</l>
+            <l>when ſhe ſo ſurely ſlepte:</l>
+            <l>Awaye from her as ſecretelye</l>
+            <l>as he could, from her crepte.</l>
+            <l>He gathered his men to hym,</l>
+            <l>that wandred in the woode:</l>
+            <l>Were rangyng here, and walking there</l>
+            <l>as eche of them thought good.</l>
+            <l>And haſtely they went aboorde,</l>
+            <l>and lancht into the deepe:</l>
+            <l>And left not one with her a ſhore,</l>
+            <l>where ſhe alas did ſleepe.</l>
+            <pb facs="tcp:152035:17"/>
+            <l>Forgettynge quyte her benefytes,</l>
+            <l>whiche ſhe to hym had done:</l>
+            <l>And howe ſhe had her countrey loſte,</l>
+            <l>and parentes left eche one.</l>
+            <l>But ſo ſoone as ſhe did awake,</l>
+            <l>and felt that he was gone:</l>
+            <l>She ſtarteth vp, and ſtares aboute,</l>
+            <l>but men ſhe ſeeth none.</l>
+            <l>She ronneth ſtreight vnto the place,</l>
+            <l>where as the ſhyps did ſtande:</l>
+            <l>Where ſhe a farre into the ſea,</l>
+            <l>did looke from Naxus lande.</l>
+            <l>And when ſhe had eſpyed the ſhyppes,</l>
+            <l>where they awaye did ſayle.</l>
+            <l>She wept and wrange her hands apace</l>
+            <l>but what did teares auayle?</l>
+            <l>And ſo ſoone as her teares did ceaſe,</l>
+            <l>amyd her myſerye:</l>
+            <l>She dyd begyn with pyteous playnt</l>
+            <l>for to extoll her crye.</l>
+            <l>What tyme quod ſhe, this Theſeus</l>
+            <l>by cruell fates conſtraynt:</l>
+            <l>Within my father Mynos Realme,</l>
+            <l>did vtter his complaynt.</l>
+            <l>In daunger with diſpayre,</l>
+            <l>a lothſome lyfe he led:</l>
+            <l>With ſcaldyng ſighes and bytter teares</l>
+            <l>deſyrynge to be deade.</l>
+            <pb facs="tcp:152035:17"/>
+            <l>But I poore wretche, alas I dyd</l>
+            <l>laye playſters to his ſore:</l>
+            <l>That he had neuer after cauſe,</l>
+            <l>to weepe or wayle no more.</l>
+            <l>I dyd repayre his craſed ſhyppes,</l>
+            <l>I dyd him treaſure gyue:</l>
+            <l>I dyd my ſelfe bequeath to hym,</l>
+            <l>ſtyll with hym for to lyue.</l>
+            <l>I bancketted this Traytours men,</l>
+            <l>I vittayled them with ſtore:</l>
+            <l>I ſhewed them ſuche pleaſure, as</l>
+            <l>they neuer had before.</l>
+            <l>I dyd my loued countrey lothe,</l>
+            <l>my parentes I forſooke:</l>
+            <l>To go with hym vnto his land,</l>
+            <l>all paynes I vndertooke.</l>
+            <l>And he lykewyſe dyd ſwere to mee,</l>
+            <l>by Goddes and heauens hye:</l>
+            <l>That he alwayes wolde be my man,</l>
+            <l>with me to lyue and dye.</l>
+            <l>Yet be my merytes dothe,</l>
+            <l>with falſhed recompence:</l>
+            <l>Whiche loue and loyaltie he doth</l>
+            <l>diſpytefullye diſpence.</l>
+            <l>Amyd a Foreſt wylde and wyde,</l>
+            <l>for Beares or Wolues a pray</l>
+            <l>He leaueth me a ſleepe, and he</l>
+            <l>falſely doth go his waye.</l>
+            <pb facs="tcp:152035:18"/>
+            <l>His truſtleſſe trueth, his treaſon tryed,</l>
+            <l>his fayth, his falſhed founde:</l>
+            <l>And I a wofull wretche in care,</l>
+            <l>as any on the grounde.</l>
+            <l>To you ye Goddes, I do complayne,</l>
+            <l>to you this tale I tell:</l>
+            <l>Sithe y<hi rend="sup">t</hi> he hath your names blaſphemd</l>
+            <l>that he may hange in hell.</l>
+            <l>Reuenge my cauſe, ſithe none but you</l>
+            <l>my whole eſtate do knowe:</l>
+            <l>That you be Goddes, and wyll reuenge</l>
+            <l>to Theſeus do ſhowe.</l>
+            <l>And you alſo that here of mee,</l>
+            <l>that be of Iudgement pure:</l>
+            <l>Beware to fiſſhe in Fancies floud,</l>
+            <l>or els to drowne be ſure.</l>
+            <l>Beware, be wyſe, example take,</l>
+            <l>by Ariadnes payne:</l>
+            <l>Whiche helpyng hym who helples was</l>
+            <l>ſhe helples doth remayne.</l>
+            <l>This ſayd: the Goddes did her tranſlate</l>
+            <l>into the ſtarrye ſkye:</l>
+            <l>And gaue her place amonge the ſtarres,</l>
+            <l>where ſhe ſhall neuer die.</l>
+            <trailer>FINIS.</trailer>
+            <closer>
+               <signed>Th. Vn.</signed>
+            </closer>
+            <pb facs="tcp:152035:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
